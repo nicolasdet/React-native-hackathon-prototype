@@ -1,0 +1,17 @@
+	### documentation technique application Prototype ###
+
+
+Google cloud messaging - push notification serveur
+
+Server API Key : AIzaSyA_LJj2iDD5sjTuJrPrkVrE6m-J-vasf9A
+SendeID: 31994355190
+
+// je vais tester la librairie de zoOr sur github. dans le futur on pourra tester celle de Wix. 
+
+$ npm install --save react-native-push-notification
+react-native link
+npm install --save react-native-dialogflow
+
+react-native link react-native-dialogflow
+react-native link react-native-speech-to-text-ios
+react-native link react-native-voice
