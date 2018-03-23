@@ -25,8 +25,11 @@ La partie parole remplace potentiellement "Djing*" et la partie notification peu
 
 
 $ npm i --save axios       								-> biblioteque facilitent les requetes http
+
 $ npm i --save react-native-dialogflow 					-> biblioteque qui permet la connexion au dialogueflow
+
 $ npm i --save react-native-element 				    -> biblioteque UI ( font + icones + composenUI )
+
 $ npm i --save react-native-gifted-chat					-> biblioteque ( composent chat ). npm trés populaire, développeur actif dans la communautée RN
 
 $ npm i --save react-native-push-notification 			-> biblioteque Permetant de gerer les notification ( relier au serveur cloud google )
@@ -38,3 +41,31 @@ $ npm i --save react-native-ttf 								-> seul biblioteque de Text-to-Chat que 
 // $ npm i --save react-native-vector-icons;  					-> installer de base avec RN element je crois ! 
 
 $ npm i --save react-redux redux 						-> Gestion du state / persistance de la data / gestion des évenements. Bibliotéque redux est la même sur reactJS et react-native, react-redux fait le pont
+
+
+### Justification ###
+
+React-native est un framework trés performant, jeunne, a la mode et surtout trés maintenable ( d'ou le nombre de bibliotéque 3thrd party que j'ai pu utiliser). 
+
+La bibliotéque axios n'est pas utiliser mais je la met toujour de base dans un projet suceptible d'avoir une connexion et des requettes. 
+
+
+
+### Comment l'utiliser ###
+
+
+Il faut bien évidement avoir l'environement React-native + android (ou IOS)  d'installer 
+https://facebook.github.io/react-native/docs/getting-started.html
+
+
+Une fois l'environement pret 
+
+$ Git clone https://github.com/nicolasdet/React-native-hackathon-prototype.git
+
+$ cd ./prototype
+
+$ npm install
+
+$ react-native run-android 
+
+et voila :smile:
