@@ -4,7 +4,7 @@ J'ai developper cette application dans le cadre du projet Hackathon 2018,
 L'idée et de faire un prototype relier a dialogueFlow capable de recevoir des notifications.
 
 La partie parole remplace potentiellement "Djing*" et la partie notification peut éventuellement étre intégrer a nimportequelle application. 
-
+.
 
 ### Biblioteque & ressources ###
 
