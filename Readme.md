@@ -1,5 +1,7 @@
 ## Application mobile Réact-native Prototype ( Cookit ) Hackathon ESGI 2018  ##
 
+licence MIT.   
+
 J'ai developper cette application dans le cadre du projet Hackathon 2018,
 L'idée et de faire un prototype relier a dialogueFlow capable de recevoir des notifications.
 
@@ -8,6 +10,7 @@ La partie parole remplace potentiellement "Djing*" et la partie notification peu
 
 ### Biblioteque & ressources ###
 
+Toute les Biblioteque utilisée sont sous licence MIT. 
 
     "axios": "^0.18.0",
     "react": "16.3.0-alpha.1",
